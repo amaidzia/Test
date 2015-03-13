@@ -5,3 +5,5 @@ fgert
 this is a new line added in branch new_feature
 
 This is a new line added from web-site
+
+2nd line added from web-site
